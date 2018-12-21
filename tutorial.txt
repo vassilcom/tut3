@@ -1,0 +1,25 @@
+https://youtu.be/kHwkaw3AxtY
+
+1. create a folder with files inside
+2. a) with Command Promp: navigate to the folder (e.g.  cd C:\Users\vassi\Desktop\projects\github_learning\testing)
+2. b) with Git Bash: navigate to the folder (e.g. $ cd C:/Users/vassi/Desktop/projects/github_learning/testing)
+3.  (with Command Promp and Git Bash) git init. prints "Initialized empty Git repository in" feadback.
+4. (with Command Promp and Git Bash) tipe "git add .". it adds the filles inside directory
+5. Right click on folder and "git commit "
+
+
+
+
+6. sign in at https://github.com/
+7. click "+">New repository
+8. Name it and chack Public
+9. leave unchecked "Initialize this repository with a README" if the project (to be uploaded) is already initialized on descktop
+10. create
+
+setting remout connection between local and online:
+11. (with Command Promp and Git Bash) tipe "git remote add enyneakname linkfromgithubhttps". enyneakname = anu short name that will contain link. linkfromgithubhttps = the link given in github after creating public repository online.
+11.1. "git remote" can print back the given name
+12.  Right click on folder and "TortoiseGit>push"
+13. enter username and than password for the github account.
+
+
